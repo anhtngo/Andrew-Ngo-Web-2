@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../design"
+		},
+		{
+			"path": "../dev"
+		}
+	]
+}
